@@ -1,4 +1,4 @@
 function name() {
-  var a = getElementById("inputName").value;
+  var a = getElementById("nameInput").value;
   window.alert(a);
   }
