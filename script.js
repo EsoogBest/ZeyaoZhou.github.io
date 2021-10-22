@@ -7,4 +7,8 @@ function name() {
   location.href = "two.html";
   }
 
+functions functionTwo() {
+  var b = localStorage.getItem("uName");
+  document.getElementById("placeholder").innerHTML = "Hello" = b;
+
 
